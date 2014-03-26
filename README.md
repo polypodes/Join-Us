@@ -9,6 +9,9 @@ Les 2 ou 3 premières semaines du stage seront très probablement consacrées à
 
 Si tu as l'envie et le courage de ce gros effort d'auto-formation, quitte immédiatement la France et rejoins une brillante start-up de la Silicon Valley. Et si tu préfères rester ici, tu peux aussi te présenter propre et à jeun, n'importe quel jour ouvré, entre 9h et 19h, dans [nos locaux à Nantes](https://www.google.fr/maps/preview?ie=UTF-8&q=les+polypodes+nantes&fb=1&gl=fr&hq=les+polypodes+nantes&cid=10922586075830765803&ei=1KwyU9KgLcaShgeZioDIBA&sqi=2&ved=0CDsQrwswAA), pour un premier entretien.
 
+Tu viens, ou bien ? contact@lespolypodes.com !
+
+
 ## CDD /CDI
 
 Cher(ère) développeur(euse) Web,
