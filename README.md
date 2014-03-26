@@ -1,4 +1,3 @@
-
 ## Stage
 
 
@@ -19,7 +18,7 @@ Cher(ère) développeur(euse) Web,
 Autodidacte ou issu(e) d'une formation Bac+2/3 minimum, tu justifies d'une expérience significative en développement web. Tu apprends vite, tu sais t'organiser, communiquer avec tes collègues, partager ton travail avec eux. Tu sais comment tester ton propre code et comment le mettre en production. Autonome et rigoureux(euse), tu maîtrises les technologies suivantes : [PHP](http://www.phptherightway.com), [HTML5](http://www.html5rocks.com), [Js](http://eloquentjavascript.net), SQL. Tu connais au moins un framework ou un CMS, idéalement Drupal ou Symfony (mais si tu ne connais pas, on te formera). Si tu as essayé [AngularJS](http://angularjs.org) ou [NodeJS](http://nodejs.org), c'est encore mieux !
 
 Les Polypodes, c'est :
-* des locaux spacieux, situés dans [un bel immeuble du Quai de la Fosse à Nantes](http://goo.gl/maps/Y1J4a), à deux pas de la place Commerce
+* des locaux spacieux, situés ~~dans [un bel immeuble du Quai de la Fosse à Nantes](http://goo.gl/maps/Y1J4a), à deux pas de la place Commerce~~ - Ah non, en fait on déménager en août 2014 dans des bureaux plus vaste à l'est de [l'Île de Nantes](http://www.iledenantes.com/fr/). Mais ce n'est pas loin.
 * une équipe à taille humaine, souriante, propre, sobre et bien rasée (ou pas)
 * des développeurs qui participent à différents [projets Open-Source](https://github.com/polypodes), à Nantes et ailleurs
 * des clients du Secteur Public et des PME de la région nantaise essentiellement
