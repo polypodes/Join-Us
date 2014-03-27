@@ -1,3 +1,4 @@
+
 ## Stage
 
 
@@ -28,6 +29,16 @@ Les Polypodes, c'est :
 * des projets qui te permettent ponctuellement d'essayer de nouveaux langages ou frameworks
 * un goût prononcé pour la veille techno, l'expérimentation et les fraises Tagada
 
-On se rencontre ? contact@lespolypodes.com !
-
+On se rencontre ? contact@lespolypodes.com !  
 A bientôt chez nous.
+
+## L'agence
+
+Les Polypodes, agence web nantaise créée en 2005.
+
+- [le site de l'agence](http://lespolypodes.com)
+- [le blog de l'équipe](http://lespolypodes.tumblr.com)
+- [fil Twitter](https://twitter.com/lespolypodes)
+- [nos projets et contributions open-source](https://github.com/polypodes)
+
+
