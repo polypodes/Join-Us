@@ -16,7 +16,7 @@ Les Polypodes, agence web nantaise créée en 2005.
 
 - [le site de l'agence](http://lespolypodes.com)
 - [le blog de l'équipe](http://lespolypodes.tumblr.com)
-- [fil Twitter](https://twitter.com/lespolypodes)
+- [le Twitter](https://twitter.com/lespolypodes)
 - [nos projets et contributions open-source](https://github.com/polypodes)
 
 
