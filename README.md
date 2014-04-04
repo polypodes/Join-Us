@@ -2,7 +2,7 @@
 
 * [Stage Développeur Web](Stage-developpeur-web.md)
 * [CDI Intégrateur Front-end](CDI-Integrateur-Front-End.md)
-* ~~[CDI Développeur Web](CDI-Developpeur-Web.md)~~ **UPDATE printemps 2014** : Ce poste est déjà pourvu, mais les candidatures spontanées restent ouvertes.
+* ~~[CDI Développeur Web](CDI-Developpeur-web.md)~~ **UPDATE printemps 2014** : Ce poste est déjà pourvu, mais les candidatures spontanées restent ouvertes.
 
 
 ## L'agence
