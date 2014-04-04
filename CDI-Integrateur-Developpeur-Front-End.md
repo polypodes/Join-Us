@@ -1,4 +1,4 @@
-## CDI Développeur Front-End
+## CDI Intégrateur Développeur Front-End
 
 Cher(ère) intégrateur(euse) Web,
 
