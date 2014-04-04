@@ -1,6 +1,8 @@
 ## CDI Intégrateur Développeur Front-End
-
+<br>
 Cher(ère) ami(e),
+<br><br><br>
+
 
 [Les Polypodes](http://www.lespolypodes.com), agence web nantaise créée en 2005, cherche un(e) nouveau(elle) collaborateur(trice) pour rejoindre son équipe.
 
