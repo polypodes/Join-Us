@@ -1,6 +1,6 @@
 ## Les offres
 
-* **Printemps 2014** : [CDI Intégrateur Front-end](CDI-Integrateur-Front-End.md)
+* **Printemps 2014** : [CDI Intégrateur Développeur Front-end](CDI-Integrateur-Developpeur-Front-End.md)
 
 ### Offres récentes : 
 
