@@ -10,7 +10,7 @@ Ces postes sont déjà pourvus, mais les candidatures spontanées restent ouvert
 * ~~[CDI Développeur Web](CDI-Developpeur-web.md)~~
 
 
-## L'agence
+## L'agence en quelques liens
 
 Les Polypodes, agence web nantaise créée en 2005.
 
