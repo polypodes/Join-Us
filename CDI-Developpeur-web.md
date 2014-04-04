@@ -1,6 +1,6 @@
 ## CDI Développeur Web
 
-*UPDATE printemps 2014*: Ce poste est déjà pourvu.
+**UPDATE printemps 2014** : Ce poste est déjà pourvu.
 
 Cher(ère) développeur(euse) Web,
 
