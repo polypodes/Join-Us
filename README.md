@@ -1,6 +1,6 @@
 ## Les offres
 
-* **Printemps 2014** : Plus d'offre pour l'instant, mais les candidatures spontanées restent ouvertes ! contact@lespolypodes.com
+* **Printemps 2014** : [CDI Intégrateur Développeur Front-end](CDI-Integrateur-Developpeur-Front-End.md)
 
 ### Offres récentes : 
 
@@ -8,7 +8,7 @@ Ces postes sont déjà pourvus, mais les candidatures spontanées restent ouvert
 
 * ~~[Stage Développeur Web](Stage-developpeur-web.md)~~
 * ~~[CDI Développeur Web](CDI-Developpeur-web.md)~~
-* ~~[CDI Intégrateur Développeur Front-end](CDI-Integrateur-Developpeur-Front-End.md)~~
+
 
 ## L'agence en quelques liens
 
