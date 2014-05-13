@@ -1,6 +1,6 @@
 ## CDI Développeur Web
 
-**UPDATE printemps 2014** : Ce poste est déjà pourvu, mais les candidatures spontanées restent ouvertes.
+#### [UPDATE] Ce poste est déjà pourvu, mais les candidatures spontanées restent ouvertes ;-)
 
 Cher(ère) développeur(euse) Web,
 
