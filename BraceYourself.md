@@ -1,4 +1,5 @@
-# Préparer son entretien, comme un chef
+# Préparer son entretien,
+# comme un chef
 
 ### Ces choses qu'on voudrait *absolument* voir : 
 
