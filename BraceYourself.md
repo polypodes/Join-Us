@@ -28,8 +28,8 @@ Même ce qui n'est pas complètement fini est présentable, mais présentez-nous
 
 Mettez-vous à notre place : Plus il y a de mots-clefs, plus c'est louche.
 
-### Le compte Github/Bitbucket/Dribbble/Codepen.io/JsFiddle n'est pas vraiment une option
+### L'open source n'est pas vraiment une option
 
-Si vous n'avez rien à montrer, dites-le nous dès le début.
+Si vous n'avez rien à montrer (Github, Codepen.io, etc.), dites-le nous dès le début.
 
 
