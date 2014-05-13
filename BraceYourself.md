@@ -9,7 +9,7 @@ Même ce qui n'est pas complètement fini est présentable, mais présentez-nous
 
 - Ne dénigrez pas trop vos anciens employeurs ou vos anciens collègues, on ne travaillera pas avec eux. 
 - Racontez ce que vous avez apporté à votre entreprise, expliquez pourquoi vous quittez votre job.
-- Ne nous racontez pas ce qu'il faudrait faire dans une entreprise idéale, racontez-nous plutôt ce que vous faites réellement (ou pas).
+- Ne nous racontez pas ce qu'il faudrait faire dans une entreprise idéale, racontez-nous plutôt comment vous travaillez.
 - Distinguez clairement les technologies que vous maîtrisez réellement, et les autres.
 
 ### Ces choses qu'on va vous demander
