@@ -19,7 +19,7 @@ Même ce qui n'est pas complètement fini est présentable, mais présentez-nous
 - Savez-vous comment annoncer une mauvaise nouvelle à votre chef de projet ?
 - Savez-vous estimer le temps que vous allez passer sur un lot de tâches ?
 - Qu'est ce qui vous use au travail ?
-- Qu'est ce qui recharge vos batteries qu'est-ce qui vous donne une patate d'enfer ? 
+- Qu'est ce qui recharge vos batteries qu'est-ce qui vous donne la patate ? 
 - Comment faire pour que vous restiez chez nous quelques années ?
 - Qu'attendez-vous de ce foutu job ?
 - Combien vaut votre travail dans notre entreprise ?
