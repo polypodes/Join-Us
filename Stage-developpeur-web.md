@@ -1,5 +1,6 @@
 ## Stage Développeur Web
 
+#### [UPDATE] : Ce poste est déjà pourvu, mais les candidatures spontanées restent ouvertes ;-)
 
 ### Cher Jeune,
 
