@@ -1,6 +1,6 @@
 ## CDI Intégrateur Développeur Front-End
 
-#### [UPDATE] : Ce poste est déjà pourvu, mais les candidatures spontanées restent ouvertes ;-)
+#### [UPDATE] Ce poste est déjà pourvu, mais les candidatures spontanées restent ouvertes ;-)
 
 <br>
 Cher(ère) ami(e),
