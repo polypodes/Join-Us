@@ -3,12 +3,12 @@
 ### Ces choses qu'on voudrait *absolument* voir : 
 
 Des exemples, des démos, des maquettes, des sites en production. Idéalement, des contributions _open-source_.
-Même ce qui n'est pas complètement fini est présentable, mais présentez-nous au moins un projet fini.
+Même ce qui n'est pas _complètement_ fini est présentable, mais présentez-nous au moins un projet.
 
 ### Ces choses qu'on voudrait entendre : 
 
 - Ne dénigrez pas trop vos anciens employeurs ou vos anciens collègues, on ne travaillera pas avec eux. 
-- Racontez ce que vous avez apporté à votre entreprise, expliquez pourquoi vous quittez votre job.
+- Racontez ce que vous avez apporté à votre entreprise actuelle, expliquez pourquoi vous quittez votre job.
 - Ne nous racontez pas ce qu'il faudrait faire dans une entreprise idéale, racontez-nous plutôt comment vous avez l'habitude de travailler. Vos pratiques, vos recettes.
 - Distinguez clairement les technologies que vous maîtrisez réellement, et les autres.
 
@@ -30,6 +30,6 @@ Mettez-vous à notre place : Plus il y a de mots-clefs, plus c'est louche.
 
 ### L'open source n'est pas vraiment une option
 
-Si vous n'avez rien à montrer (Github, Codepen.io, etc.), dites-le nous dès le début.
+Si vous n'avez rien à montrer (Github, Codepen.io, un site web en ligne, etc.), dites-le nous dès le début.
 
 
