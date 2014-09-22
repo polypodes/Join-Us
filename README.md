@@ -1,6 +1,6 @@
 ## Les offres
 
-* **Printemps 2014** : Pas d'offre en cours, mais les candidatures spontanées sont toujours appréciées ;-)
+* **[UPDATE] Automne 2014** : Pas d'offre en cours, mais les candidatures spontanées sont toujours appréciées ;-)
 
 ### Offres récentes : 
 
