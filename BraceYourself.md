@@ -29,7 +29,7 @@ Vous avez un niveau professionnel ? C'est génial !
 
 Vous êtes étudiant(e) et venez pour un stage ? Super !
 
-- Quel cours vous a le plus interessé cette année ? Celui ou vous avez obtenu vos meilleures notes ?
+- Quel cours vous a le plus interessé cette année ? Quel est celui où vous avez obtenu vos meilleures notes ?
 - Qu'allez-vous apprendre de nouveau cette année ? Combien de temps y consacrerez-vous ?
 - Quels langages ou technologies ou nouvelles méthode souhaitez-vous maîtriser maintenant ?
 - Qu'attendez-vous de ce foutu stage ?
