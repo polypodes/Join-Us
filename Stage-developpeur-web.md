@@ -2,7 +2,7 @@
 
 ### Cher Jeune,
 
-[Les Polypodes](http://www.lespolypodes.com), agence web nantaise créée en 2005, cherche un(e) jeune homme/jeune fille motivé, prêt à se former sur un [framework web MVC](http://en.wikipedia.org/wiki/Web_application_framework). Le projet d'application web qui sera l'objet du stage est un développement basé sur des technologies PHP et sur [Sonata](http://sonata-project.org) - une suite de briques logicielles basées sur le framework [Symfony2](http://symfony.com) -, dans le but de réaliser un outil commercial interne. Ce projet, déjà initié chez nous, [est un projet _open-source_](https://github.com/polypodes/ReferencesEngine).
+[Les Polypodes](http://www.lespolypodes.com), agence web nantaise créée en 2005, cherche un(e) jeune homme ou une jeune fille motivé(e), prêt(e) à se former sur un [framework web MVC](http://en.wikipedia.org/wiki/Web_application_framework). Le projet d'application web qui sera l'objet du stage est un développement basé sur des technologies comme [Symfony2](http://symfony.com) ou [AngularJ](https://angularjs.org/) ou encore [Corova](http://cordova.apache.org/) pour des  projet, déjà initié chez nous, [est un projet _open-source_](https://github.com/polypodes/ReferencesEngine).
 
 Les 2 ou 3 premières semaines du stage seront consacrées à une auto-formation intensive sur ces technologies, en autonomie. L'Agence attire l'attention des candidats(es) sur le fait que ce stage implique un fort engagement de leur part dans l'effort d'apprentissage de nouvelles connaissances. L'autonomie et la progression personnelle seront déterminantes, et seront évaluées à la fin du premier mois de stage. Les résultats seront récompensés en indemnités de stage, fraises Tagada et litres de bière belge.
 
