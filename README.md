@@ -1,14 +1,18 @@
 ## Les offres
 
-* [UPDATE] Automne 2014 : Pas d'offre en cours, mais les candidatures spontanées sont toujours appréciées ;-)
-* **[UPDATE] Hiver 2014-2015** : Nous nous proposons d'accueillir un ou deux stagiaires au printemps 2015. Faites signe ;-)  
+### Offre en cours : 
+
+**[UPDATE] Hiver 2014-2015** : Nous nous proposons d'accueillir un ou deux stagiaires au printemps 2015. Faites signe ;-)  
+
+- [Stage Développeur Web](Stage-developpeur-web.md)
 
 ### Offres récentes : 
+
+[UPDATE] Automne 2014 : Pas d'offre en cours, mais les candidatures spontanées sont toujours appréciées ;-)
 
 Ces postes sont déjà pourvus, mais les candidatures spontanées restent ouvertes :
 
 - ~~[CDI Intégrateur Développeur Front-end](CDI-Integrateur-Developpeur-Front-End.md)~~
-- [Stage Développeur Web](Stage-developpeur-web.md)
 - ~~[CDI Développeur Web](CDI-Developpeur-web.md)~~
 
 
