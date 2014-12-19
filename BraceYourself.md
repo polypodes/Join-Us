@@ -2,7 +2,7 @@
 
 ### Ces choses qu'on voudrait *absolument* voir : 
 
-Des essais, des prototypes, des démos, des maquettes, des sites en production. Idéalement, des contributions _open-source_. Si vous êtes étudiant et que vous cherchez un stage, vos TP gagneraient à être mis en ligne, sur [Github](http://github.com/) par exemple. Même ce qui n'est pas _complètement_ fini est présentable, mais présentez-nous au moins un projet de votre cru. Dites-vous une chose : votre CV n'est qu'une convention, et il ne suffira pas à nous présenter ce que vous savez *vraiment* faire.
+Des essais, des prototypes, des démos, des maquettes, des sites en production. Idéalement, des contributions _open-source_. Si vous êtes étudiant(e) et que vous cherchez un stage, vos TP gagneraient à être mis en ligne, sur [Github](http://github.com/) par exemple. Même ce qui n'est pas _complètement_ fini est présentable, mais présentez-nous au moins un projet de votre cru. Dites-vous une chose : votre CV n'est qu'une convention, et il ne suffira pas à nous présenter ce que vous savez *vraiment* faire.
 
 ### Ces choses qu'on voudrait entendre : 
 
@@ -27,7 +27,7 @@ Vous avez un niveau professionnel ? C'est génial !
 - Qu'attendez-vous de ce foutu job ?
 - Combien vaut votre travail dans notre entreprise ?
 
-Vous êtes étudiant et venez pour un stage ? Super !
+Vous êtes étudiant(e) et venez pour un stage ? Super !
 
 - Quel cours vous a le plus interessé cette année ? Celui ou vous avez obtenu vos meilleures notes ?
 - Qu'allez-vous apprendre de nouveau cette année ? Combien de temps y consacrerez-vous ?
