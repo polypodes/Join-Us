@@ -2,7 +2,7 @@
 
 ### Offre en cours : 
 
-**[UPDATE] Hiver 2014-2015** : Nous nous proposons d'accueillir un ou deux stagiaires au printemps 2015. Faites signe ;-)  
+**[UPDATE] Hiver 2014-2015** : Nous nous proposons d'accueillir un ou deux stagiaires au printemps 2015.
 
 - [Stage Développeur Web](Stage-developpeur-web.md)
 
