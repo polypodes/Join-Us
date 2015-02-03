@@ -2,11 +2,10 @@
 
 *Résumé* : Ce document produit par l'Agence [Les Polypodes](http://lespolypodes.com/) propose quelques conseils pratiques pour préparer son entretien d'embauche, pour un stage ou un emploi.
 
-* version : 1.0.1
+* version : 1.0.2
 * auteurs : [Ronan Guilloux](mailto:ronan@lespolypodes.com), [Les Polypodes](http://lespolypodes.com/) SARL (Nantes, France)
 * licence : [CC by-sa 3.0 fr](http://creativecommons.org/licenses/by-sa/3.0/fr/)
 * [Ce document libre et ouvert est téléchargeable en ligne](https://github.com/polypodes/Join-Us/blob/master/BraceYourself.md) ([version PDF](https://gitprint.com/polypodes/Join-Us/blob/master/BraceYourself.md))
-
 
 ## Ces choses qu'on voudrait *absolument* voir : 
 
@@ -14,10 +13,13 @@ Des essais, des prototypes, des démos, des maquettes, des sites en production. 
 
 ## Ces choses qu'on voudrait entendre : 
 
-- Ne dénigrez pas trop vos anciens employeurs ou vos anciens collègues, on ne travaillera pas avec eux. 
+- Ne dénigrez pas vos anciens employeurs ou vos anciens collègues : on ne travaillera pas avec eux. 
 - Racontez ce que vous avez apporté à votre entreprise actuelle, à vos employeurs ou maîtres de stage précédents, votre équipe ou votre binôme, expliquez pourquoi vous quittez votre job ou ce que vous attendez de votre expérience chez nous.
 - Ne nous racontez pas ce qu'il faudrait faire dans une entreprise idéale, racontez-nous plutôt comment vous avez l'habitude de travailler. Vos pratiques, vos recettes.
-- Distinguez clairement les technologies que vous maîtrisez réellement, sur lesquelles vous êtes _"production-ready"_, et les autres.
+- "Maîtriser" une technologie, un langage, signifie le connaître sur le bout des doigts, et être capable de le mettre en oeuvre rapidement dans un projet réel, en production, pour un client. Distinguez donc clairement les technologies que vous maîtrisez réellement, celles que "vous avez vu en cours", celles que vous avez juste découverte via un tutoriel, etc.
+- Personne ne maîtrise tout : expliquez-nous quelle technologie vous comptez maîtriser à la fin de cette année, quels moyens vous vous donnez, quels travaux vous pouvez déjà nous montrer.
+- Expliquez quel profil de développeur(euse) vous souhaitez développer, quel type de projets vous souhaitez intégrer, et quels profils ou projets vous intéressent moins, voire pas du tout.
+
 
 ## Ces choses qu'on va vous demander
 
@@ -41,7 +43,6 @@ Vous êtes étudiant(e) et venez pour un stage ? Bienvenue !
 - Qu'allez-vous apprendre de nouveau cette année ? Combien de temps y consacrerez-vous ?
 - Quels langages ou technologies ou nouvelles méthode souhaitez-vous maîtriser maintenant ?
 - Qu'attendez-vous de ce foutu stage ?
-
 
 ## Le CV est une option
 
