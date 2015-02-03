@@ -43,7 +43,7 @@ Vous êtes étudiant(e) et venez pour un stage ? Bienvenue !
  
 Dans tous les cas :
 
-__"Maîtriser" une technologie__, un langage, signifie le connaître sur le bout des doigts, et être capable de le mettre en oeuvre rapidement dans un projet réel, en production, pour un vrai client qui attend un livrable de qualité. Distinguez donc clairement les technologies que vous maîtrisez réellement, celles que "vous avez vu en cours", celles que vous avez simplement découvertes via un tutoriel, celles que vous n'avez pas le temps de creuser mais qui vous intéresse quand même beaucoup, etc.
+__"Maîtriser" une technologie__, un langage, signifie le connaître sur le bout des doigts, et être capable de le mettre en oeuvre rapidement dans un projet réel, en production, pour un vrai client qui attend un livrable de qualité. Distinguez donc clairement les technologies que vous maîtrisez réellement, celles que "vous avez vu en cours", celles que vous avez simplement découvertes via un tutoriel, celles que vous n'avez pas le temps de creuser mais qui vous intéressent quand même, etc.
 
 ## Le CV est une option
 
