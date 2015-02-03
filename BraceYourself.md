@@ -16,8 +16,6 @@ Des essais, des prototypes, des démos, des maquettes, des sites en production. 
 - Ne dénigrez pas vos anciens employeurs ou vos anciens collègues : on ne travaillera pas avec eux. 
 - Racontez ce que vous avez apporté à votre entreprise actuelle, à vos employeurs ou maîtres de stage précédents, votre équipe ou votre binôme, expliquez pourquoi vous quittez votre job ou ce que vous attendez de votre expérience chez nous.
 - Ne nous racontez pas ce qu'il faudrait faire dans une entreprise idéale, racontez-nous plutôt comment vous avez l'habitude de travailler. Vos pratiques, vos recettes.
-- "Maîtriser" une technologie, un langage, signifie le connaître sur le bout des doigts, et être capable de le mettre en oeuvre rapidement dans un projet réel, en production, pour un client. Distinguez donc clairement les technologies que vous maîtrisez réellement, celles que "vous avez vu en cours", celles que vous avez juste découverte via un tutoriel, etc.
-- Personne ne maîtrise tout : expliquez-nous quelle technologie vous comptez maîtriser à la fin de cette année, quels moyens vous vous donnez, quels travaux vous pouvez déjà nous montrer.
 - Expliquez quel profil de développeur(euse) vous souhaitez développer, quel type de projets vous souhaitez intégrer, et quels profils ou projets vous intéressent moins, voire pas du tout.
 
 
@@ -39,10 +37,13 @@ Vous avez un niveau professionnel ? C'est génial !
 
 Vous êtes étudiant(e) et venez pour un stage ? Bienvenue !
 
+- Au terme de cette année de formation, expliquez-nous quelle(s) technologie(s) en particulier vous avez décidé de connaître "à fond", quels moyens vous vous donnez pour cela, quels travaux vous pouvez déjà nous montrer.
 - Quel cours vous a le plus interessé cette année ? Quel est celui où vous avez obtenu vos meilleures notes ?
-- Qu'allez-vous apprendre de nouveau cette année ? Combien de temps y consacrerez-vous ?
-- Quels langages ou technologies ou nouvelles méthode souhaitez-vous maîtriser maintenant ?
 - Qu'attendez-vous de ce foutu stage ?
+ 
+Dans tous les cas :
+
+__"Maîtriser" une technologie__, un langage, signifie le connaître sur le bout des doigts, et être capable de le mettre en oeuvre rapidement dans un projet réel, en production, pour un vrai client qui attend un livrable de qualité. Distinguez donc clairement les technologies que vous maîtrisez réellement, celles que "vous avez vu en cours", celles que vous avez simplement découvertes via un tutoriel, celles que vous n'avez pas le temps de creuser mais qui vous intéresse quand même beaucoup, etc.
 
 ## Le CV est une option
 
