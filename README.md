@@ -4,7 +4,7 @@
 
 **[UPDATE] Printemps 2015** : Nous nous proposons d'accueillir un ou deux stagiaires au printemps 2015.
 
-- [Stage Développeur Web](Stage-developpeur-web.md)
+- [Stage Développeur Web](Stage-developpeur-web.md). Le sujet du stage sera un projet open-source, le plus souvent au profit d'une association locale à but culturel, social ou sportif.
 
 ### Offres récentes : 
 
