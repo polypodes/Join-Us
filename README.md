@@ -2,13 +2,13 @@
 
 ### Offre en cours : 
 
-**[UPDATE] Hiver 2014-2015** : Nous nous proposons d'accueillir un ou deux stagiaires au printemps 2015.
+**[UPDATE] Printemps 2015** : Nous nous proposons d'accueillir un ou deux stagiaires au printemps 2015.
 
 - [Stage Développeur Web](Stage-developpeur-web.md)
 
 ### Offres récentes : 
 
-[UPDATE] Automne 2014 : Pas d'offre en cours, mais les candidatures spontanées sont toujours appréciées ;-)
+[UPDATE] Printemps 2015 : Pas d'offre en cours, mais les candidatures spontanées sont toujours appréciées ;-)
 
 Ces postes sont déjà pourvus, mais les candidatures spontanées restent ouvertes :
 
@@ -18,7 +18,7 @@ Ces postes sont déjà pourvus, mais les candidatures spontanées restent ouvert
 
 ## Se recontrer
 
-- soyez malins : [Préparer votre entretien comme un chef](BraceYourself.md)
+- Soyez malin(e)s : [Préparer votre entretien comme un chef](BraceYourself.md)
 
 ## L'agence en quelques liens
 
@@ -27,6 +27,6 @@ Les Polypodes, agence web nantaise créée en 2005.
 - [le site de l'agence](http://lespolypodes.com)
 - [le blog de l'équipe](http://lespolypodes.tumblr.com)
 - [le Twitter](https://twitter.com/lespolypodes)
-- [nos projets et contributions open-source](https://github.com/polypodes)
+- [nos projets et contributions open-source (Github)](https://github.com/polypodes)
 
 
