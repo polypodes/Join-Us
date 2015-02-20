@@ -2,7 +2,7 @@
 
 permettant de partager des annonces de stages ou d'emploi dans le domaine du web.
 
-## Département informatique de l'IUT de Nantes
+## [Département informatique de l'IUT de Nantes](http://www.iutnantes.univ-nantes.fr)
 
 Formations :
 
@@ -18,3 +18,14 @@ Les étudiants de LP peuvent n'avoir vu que Java dans leur formation (LP et ant�
 [Formulaire de publication des offres de stage](https://gestion-stages.iut-nantes.univ-nantes.fr/GestionStages/accueilInfo.do)
 
 Contact : Nicolas Hernandez, Responsable des stages au département informatique de l'IUT de Nantes
+
+
+## [IMIE](http://www.imie-ecole-informatique.fr/)
+
+- [Formations](http://www.imie-ecole-informatique.fr/decouvrez-les-cursus-et-formations-de-lecole.html) en particulier [Développpeur Logiciel](http://www.imie-ecole-informatique.fr/formations/developpeur-logiciel.html)
+- Contact Offres d'emploi et de stages : emploi@imie.fr
+
+## [Epitech]()
+
+- [Cursus & formations](http://www.epitech.eu/cursus-programmes.aspx)
+- Contact Offres d'emploi et de stages : nantes@epitech.eu
