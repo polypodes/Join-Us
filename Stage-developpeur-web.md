@@ -6,7 +6,7 @@
 
 L'objet du stage consiste à poursuivre des travaux de recherche et développement autour d'[un projet libre et ouvert de plateforme open-data de partages d'évènements](https://github.com/LiberTIC/ODEV2/blob/master/README.md), initié par l'[association LiberTIC](libertic.wordpress.com) en 2014. LiberTIC est une association Loi 1901 créée en 2009 à Nantes, ayant a pour objectif de promouvoir l’e-démocratie et l’ouverture des données publiques.
 
-L'agence Les Polypodes assurera l'accueil et l'encadrement du stage, en collaboration avec l'association LibertTIC.
+L'agence Les Polypodes assurera l'accueil et l'encadrement du stage, en collaboration avec l'association LibertTIC : L'agence assure en particlier la disponibilité en entreprise d'un informaticien expérimenté à même de diriger fonctionnellement et techniquement le stagiaire sur le sujet proposé.
 
 Ce stage est ouvert dès à présent et s'adresse à tout candidat maîtrisant effectivement le langage PHP et ayant étudié au moins un framework MVC.
 
