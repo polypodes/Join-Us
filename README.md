@@ -8,7 +8,7 @@
 
 ### Offres récentes : 
 
-[UPDATE] Printemps 2015 : Pas d'offre en cours, mais les candidatures spontanées sont toujours appréciées ;-)
+**[UPDATE] Printemps 2015** : Pas d'offre en cours, mais les candidatures spontanées sont toujours appréciées ;-)
 
 Ces postes sont déjà pourvus, mais les candidatures spontanées restent ouvertes :
 
