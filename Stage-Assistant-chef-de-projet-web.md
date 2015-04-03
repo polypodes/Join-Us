@@ -1,5 +1,5 @@
 
-# Stage assistant chef de projet
+# Stage Assistant(e) Chef de projet
 
 Cher(ère) étudiant(e),
 
